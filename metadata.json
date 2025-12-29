@@ -1,0 +1,7 @@
+{
+  "name": "MINMAXHOUSE_ CV",
+  "description": "Ứng dụng chuyên sâu dành cho công ty kiến trúc & nội thất MINMAXHOUSE, quản lý từ giai đoạn Khảo sát đến Bàn giao.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
